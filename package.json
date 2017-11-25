@@ -1,0 +1,25 @@
+{
+  "name": "251117",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WMA12345/251117.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WMA12345/251117/issues"
+  },
+  "homepage": "https://github.com/WMA12345/251117#readme",
+  "devDependencies": {
+    "express": "^4.16.2"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
